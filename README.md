@@ -20,3 +20,4 @@ An Android application built using Kotlin, XML layout files, and Fragments that 
 4. Allow Gradle to sync completely with the project dependencies.
 5. Select a virtual emulator device configuration (e.g., Medium Phone API 37).
 6. Press the green **Run** button to compile and execute the application.
+7. .
